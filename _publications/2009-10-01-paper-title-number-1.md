@@ -1,12 +1,20 @@
 ---
-title: "A Ghetto of One's Own: Communal Violence, Residential Segregation, and Group Education Outcomes in India"
+title: "`Impacts of regional lockdown policies on COVID-19 transmission in India in 2020', with Paul Novosad"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'How does ethnic violence and subsequent segregation shape children's lives? Using exogenous variation in communal violence due to a Hindu nationalist campaign tour across India, I show that violence displaces Muslims to segregated neighbourhoods. Surprisingly, I find that post-event, Muslim primary education levels are higher in cities that were more susceptible to violence. For cohorts enrolling after the riots, the probability of attaining primary education decreases by 2.3% every 100 kilometres away from the campaign route. I exploit differences in the planned and actual route to show that this is due to residential segregation of communities threatened by violence.'
-date: 2021-10-29
-paperurl: 'https://osf.io/preprints/socarxiv/265r3/'
-citation: 'Kalra, Aarushi. (2021). &quot;A Ghetto of One's Own: Communal Violence, Residential Segregation and Grouop Education Outcomes in India.&quot'
+excerpt: 'To assess the impact of non-pharmaceutical interventions (NPIs) on the first wave of COVID transmission and fatalities in India.'
+date: 2021-08-10
+venue: 
+paperurl: 'https://www.medrxiv.org/content/10.1101/2021.08.09.21261277v1'
+citation: 'Kalra, Aarushi and Novosad, Paul. (2021). &quot;Impacts of regional lockdown policies on COVID-19 transmission in India in 2020.&quot;'
 ---
-How does ethnic violence and subsequent segregation shape children's lives? Using exogenous variation in communal violence due to a Hindu nationalist campaign tour across India, I show that violence displaces Muslims to segregated neighbourhoods. Surprisingly, I find that post-event, Muslim primary education levels are higher in cities that were more susceptible to violence. For cohorts enrolling after the riots, the probability of attaining primary education decreases by 2.3% every 100 kilometres away from the campaign route. I exploit differences in the planned and actual route to show that this is due to residential segregation of communities threatened by violence.
+
+**Objective**  To assess the impact of non-pharmaceutical interventions (NPIs) on the first wave of COVID transmission and fatalities in India.
+
+**Methods**  We collected data on NPIs, using government notifications and news reports, in six major Indian states from March to August 2020, and we matched these with district-level data on COVID related deaths and Google Mobility reports. We used a district fixed effect regression approach to measure the extent to which district-level lockdowns and mobility restrictions helped reduce deaths in 2020.
+
+**Results**  In most states, COVID deaths grew most rapidly only after the initial lockdown was lifted. District-level NPIs were associated with a statistically significantly lower COVID death count in three out of five sample states (district analysis was not possible in Delhi) and in the aggregate. Interventions that were most associated with slowing fatalities were temple closures, retail closures, and curfews.
+
+**Discussion**  Outside of Maharashtra (the first state struck) the first fatality wave appears to have been delayed by the national lockdown. India’s NPIs, however incomplete, were successful in delaying or limiting COVID-19 deaths. Even with incomplete compliance, limiting mass gatherings in face of incipient viral waves may save lives.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
