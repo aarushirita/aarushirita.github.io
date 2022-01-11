@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "`Hate at Scale: Elections, Leader Identity and Hate Sopeech on Social Media in India' with Saket Tiwari"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'How does the identity of local political leaders change public expression of political opinions? Using data from a very popular Indian content generation platform, we analyze if users engage with hateful content when the local leader belongs to a vulnerable minority group. We consider engagement activity of 19 million users with 30,000 Hindi posts around the village council elections of April, 2021 in Uttar Pradesh. We employ a regression discontinuity design to compare anti-minority hate speech in villages where a Muslim candidate won the election with villages where Muslim candidates lost by a small margin. We find that in villages where the winner is Muslim, users decrease public engagement (eg: liking on the platform) with hateful content once the election result is announced. On the contrary, we find an increase in engagement with hate, when such activity is not publicly observable by other users (eg: sharing on WhatsApp from the platform) in treated villages. A potential explanation is that elections normalize engagement with hateful content that may not be acceptable under ordinary circumstances. Additionally, users may be cautious of offending local leaders once the results have been announced. This paper, therefore, brings to light factors that change norms of engagement with political and/or offensive content on social media. '
+date: 2021-12-07
+venue: 
+paperurl: 
+citation: 
 ---
-This paper is about the number 3. The number 4 is left for future work.
+How does the identity of local political leaders change public expression of political opinions? Using data from a very popular Indian content generation platform, we analyze if users engage with hateful content when the local leader belongs to a vulnerable minority group. We consider engagement activity of 19 million users with 30,000 Hindi posts around the village council elections of April, 2021 in Uttar Pradesh. We employ a regression discontinuity design to compare anti-minority hate speech in villages where a Muslim candidate won the election with villages where Muslim candidates lost by a small margin. We find that in villages where the winner is Muslim, users decrease public engagement (eg: liking on the platform) with hateful content once the election result is announced. On the contrary, we find an increase in engagement with hate, when such activity is not publicly observable by other users (eg: sharing on WhatsApp from the platform) in treated villages. A potential explanation is that elections normalize engagement with hateful content that may not be acceptable under ordinary circumstances. Additionally, users may be cautious of offending local leaders once the results have been announced. This paper, therefore, brings to light factors that change norms of engagement with political and/or offensive content on social media. 
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+*[Paper available upon request]*
