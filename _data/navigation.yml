@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Reseach"
-    url: /publications/
+    url: /papers/
 
   - title: "Teaching"
     url: /teaching/    
@@ -10,6 +10,6 @@ main:
     url: "https://bahujanecon.org/"
         
   - title: "Other Works"
-    url: /year-archive/
+    url: /articles/
 
     
