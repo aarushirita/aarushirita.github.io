@@ -9,7 +9,7 @@ excerpt: '**Objective**  To assess the impact of non-pharmaceutical intervention
 **Results**  In most states, COVID deaths grew most rapidly only after the initial lockdown was lifted. District-level NPIs were associated with a statistically significantly lower COVID death count in three out of five sample states (district analysis was not possible in Delhi) and in the aggregate. Interventions that were most associated with slowing fatalities were temple closures, retail closures, and curfews.
 
 **Discussion**  Outside of Maharashtra (the first state struck) the first fatality wave appears to have been delayed by the national lockdown. India’s NPIs, however incomplete, were successful in delaying or limiting COVID-19 deaths. Even with incomplete compliance, limiting mass gatherings in face of incipient viral waves may save lives.'
-date: 2021-08-10
+date:
 venue: 
 paperurl: 'https://www.medrxiv.org/content/10.1101/2021.08.09.21261277v1'
 citation: 
