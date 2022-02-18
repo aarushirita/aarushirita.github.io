@@ -1,16 +1,13 @@
 ---
-layout: archive
-title: "Working Papers"
-permalink: /publications/
-author_profile: true
+title: 
+layout: single
+classes: wide
+permalink: /papers/
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNS829G" height="0" width="0" style="display:none;visibility:hidden"></iframe>
 
-{% include base_path %}
+#Working Papers
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Hate at Scale: Elections, Leader Identity, and Hate Speech on Social Media in India (with Saket Tiwari). 2021.
+[Abstract | Draft | Slides]
