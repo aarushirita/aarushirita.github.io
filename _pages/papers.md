@@ -11,7 +11,8 @@ Birth Pangs: Universal Maternity Entitlements in India, with Aditi Priya (_Econo
 
 ## Working Papers
 A 'Ghetto' of One's Own: Communal Violence, Residential Segregation and Group Education Outcomes in India (_Under Review_)
-[Draft](https://osf.io/preprints/socarxiv/265r3/)
+*Winner, S4 (Spatial Structures in the Social Sciences) Graduate Student Paper Prize*
+[Draft](https://osf.io/preprints/socarxiv/265r3/) | [Poster](https://drive.google.com/file/d/1rMSgrlyeTL2pX4WoLIBIlpKUDSLvxAwi/view?usp=sharing)
 
 
 Impacts of regional lockdown policies on COVID-19 transmission in India in 2020, with Paul Novosal (_Accepted at Economic and Political Weekly_)
