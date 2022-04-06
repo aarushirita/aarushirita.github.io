@@ -13,10 +13,10 @@ Center for Contemporary South Asia, Brown University
 **Quantitative Methods** 
 Institute of Economic Growth and office of the Chief Economic Adviser of India
 
-**Game Theory (Bridge Course)**
+**Game Theory (Bridge Course, Graduate Level)**
 Department of Economics, Delhi School of Economics
 
-**Econometrics (Bridge Course)**
+**Econometrics (Bridge Course, Graduate Level)**
 Department of Economics, Delhi School of Economics
 
 ## Teaching Assistant
@@ -25,7 +25,7 @@ Department of Economics, Delhi School of Economics
 with Prof. Roberto Serrano, Brown University
 
 **Graduate level Mathematics for Economists**
-with Prof. Alex Poetrrack, Brown University
+with Prof. Alex Poterrack, Brown University
 
 **Intermediate Microeconomics**
 with Prof. Fahri Ulusoy, Brown University
