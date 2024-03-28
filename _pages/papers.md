@@ -7,7 +7,7 @@ permalink: /papers/
 
 ## Peer Reviewed Publications
 
-Impacts of regional lockdown policies on COVID-19 transmission in India in 2020, with Paul Novosal (_Economic and Political Weekly_, 2022)
+Impacts of regional lockdown policies on COVID-19 transmission in India in 2020, with Paul Novosad (_Economic and Political Weekly_, 2022)
 <br>
 [Paper](https://www.medrxiv.org/content/10.1101/2021.08.09.21261277v1) | [Data](https://github.com/devdatalab/paper-kalra-novosad-india-npi/tree/main/clean_data) | [Code](https://github.com/devdatalab/paper-kalra-novosad-india-npi/tree/main/b)
 
@@ -22,6 +22,15 @@ A 'Ghetto' of One's Own: Communal Violence, Residential Segregation and Group Ed
 <br>
 [Draft](https://osf.io/preprints/socarxiv/265r3/) | [Poster](https://drive.google.com/file/d/1rMSgrlyeTL2pX4WoLIBIlpKUDSLvxAwi/view?usp=sharing)
 
-A Dataset of Geolocated Villages and Gram Panchayat Election Candidates in Uttar Pradesh, with Aryan Srivastava and Saket Tiwari
+A Dataset of Geolocated Villages and Gram Panchayat Election Candidates in Uttar Pradesh
 <br>
 [Draft | Data | Code](https://osf.io/preprints/socarxiv/d6w2h/)
+
+## Works in Progress
+Behavioral Responses to Recommendation Algorithms: Evidence from a large-scale RCT in India
+<br>
+*Grants: NSF and Weiss Foundation*
+[Pre-registration](https://www.socialscienceregistry.org/trials/10933)
+
+Causes and Consequences of Internet Shutdowns, with Ro'ee Levy and Martin Mattsson
+
