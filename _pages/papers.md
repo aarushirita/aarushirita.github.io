@@ -19,7 +19,8 @@ A Dataset of Geolocated Villages and Gram Panchayat Election Candidates in Uttar
 ## Works in Progress
 Behavioral Responses to Recommendation Algorithms: Evidence from a large-scale RCT in India
 <br>
-*Grants: NSF and Weiss Foundation*
+*Grants: NSF Dissertation Research Improvement Grant and Weiss Fund for Research in Development Economics*
+<br>
 [Pre-registration](https://www.socialscienceregistry.org/trials/10933)
 
 Causes and Consequences of Internet Shutdowns, with [Ro'ee Levy](https://www.roeelevy.com/) and [Martin Mattsson](https://www.martin-mattsson.com/)
