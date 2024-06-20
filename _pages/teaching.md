@@ -8,7 +8,7 @@ permalink: /teaching/
 ## Instructor 
 **Economic and Human Development in South Asia, 2021**
 Center for Contemporary South Asia, Brown University
-[Syllabus](https://drive.google.com/drive/u/0/folders/1-Dt-Mi0xF0OOUeFMxSUP_f6nEtTKfjer)
+[Syllabus](https://drive.google.com/file/d/1mYlB1JpgyGO3rEiptSTd6GPp8mUhVl4x/view?usp=sharing)
 
 **Quantitative Methods, 2018** 
 Institute of Economic Growth and office of the Chief Economic Adviser of India
