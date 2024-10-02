@@ -4,7 +4,10 @@ main:
     url: /papers/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "CV"
+    url: /cv/  
     
   - title: "Bahujan Economists"
     url: "https://bahujanecon.org/"
