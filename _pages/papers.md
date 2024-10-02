@@ -4,8 +4,8 @@ layout: single
 classes: wide
 permalink: /papers/
 ---
-## Job Market Papers
-Behavioral Responses to Recommendation Algorithms: Evidence from a large-scale RCT in India
+## Job Market Paper
+Social Media Algorithms versus User Preferences in a Large-Scale RCT
 <br>
 *Grants: NSF Dissertation Research Improvement Grant and Weiss Fund for Research in Development Economics*
 <br>
