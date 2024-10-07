@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /CV/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a link to my [CV](Job_Market_CV___Kalra.pdf)
+Here is the link you can use to download my [CV](./_pages/Job_Market_CV___Kalra.pdf)
+
+### CV Preview
+
+<iframe src="/_pages/Job_Market_CV___Kalra.pdf" width="100%" height="600px"></iframe>
