@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /CV/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a link to my [CV](https://github.com/aarushirita/aarushirita.github.io/blob/master/_pages/Job_Market_CV___Kalra.pdf)
+Here is a link to my [CV](Job_Market_CV___Kalra.pdf)
