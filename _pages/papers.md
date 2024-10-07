@@ -13,7 +13,7 @@ permalink: /papers/
 
 
 <details>
-  <summary> **Abstract** </summary>
+  <summary> <strong>Abstract</strong> </summary>
   
 To what extent is engagement with radicalizing social media content driven by algorithmically curated feeds and by user tastes? I conduct an RCT replacing personalization algorithms with random content delivery for over one million users of a prominent TikTok-like platform in India. I find a trade-off between the societal benefits of the intervention and its potential impact on producer and consumer surplus: random post recommendation lowers exposure to anti-minority ("toxic") content by 27% on average, but also lowers overall platform usage by 35%, imposing substantial costs on the platform. Strikingly, the benefits were also blunted as the proportion of toxic posts shared per toxic post viewed increased by 18%, even though the aggregate number of toxic posts shared reduced by 20%. This effect was driven by users with higher proclivity to toxic content at baseline, as they sought out posts that the algorithm did not recommend to them. I rationalize these results with a model of an engagement-maximizing algorithm that faces users who choose what social media to consume according to heterogeneous preferences. Estimated behavioral parameters reveal that user behavior is relatively immalleable, with an elasticity of 0.16. This results in limited effectiveness of regulatory measures that target algorithms.
 </details>
