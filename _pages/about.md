@@ -15,5 +15,3 @@ My research examines how social identity drives segregation and exclusion in bot
 I am on the 2024-2025 academic job market.
 
 Email: aarushi\_kalra@brown.edu
-
- You can find my CV [here](./_pages/Job_Market_CV___Kalra.pdf)
