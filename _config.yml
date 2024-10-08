@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter "chidiya_"
+# twitter:
+  # username               : &twitter "chidiya_"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -77,11 +77,11 @@ analytics:
 author:
   name             : "Aarushi Kalra"
   avatar           : "Aarushi Kalra.jpg"
-  bio              : "Economics PhD candidate at Brown University | Bahujan Economists | DSE '17 & LSR '15"
+  bio              : "Economics PhD candidate at Brown | Bahujan Economists"
   location         : "Providence, Rhode Island"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=gqscEjIAAAAJ&hl=en&oi=ao"
-  email            : "aarushi_kalra@brown.edu"
+  email            : #"aarushi_kalra@brown.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "chidiya_"
+  twitter          : #"chidiya_"
   vine             :
   weibo            :
   xing             :
