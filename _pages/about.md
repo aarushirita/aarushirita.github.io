@@ -12,5 +12,5 @@ I am a PhD candidate in Economics at Brown University. I am interested in Develo
 
 I am on the 2024-2025 job market.
 
-<small>Email: aarushi\_kalra@brown.edu!</small>
+<small>Email: aarushi\_kalra@brown.edu</small>
 
