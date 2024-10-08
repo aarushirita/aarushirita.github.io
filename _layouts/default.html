@@ -13,6 +13,15 @@ layout: compress
     p {
         text-align: justify;
     }
+
+  .author__avatar {
+    border-radius: 0;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    display: block;
+  }
+
 </style>
 
   </head>
@@ -30,15 +39,6 @@ layout: compress
         {% include footer.html %}
       </footer>
     </div>
-
-
-    .author__avatar {
-    border-radius: 0; /* Removes the oval/circular shape */
-    width: auto;      /* Ensures the width of the image is natural */
-    height: auto;     /* Ensures the height of the image is natural */
-    max-width: 100%;  /* Ensures responsiveness */
-    display: block;   /* Aligns the image properly */
-}
 
 
     {% include scripts.html %}
