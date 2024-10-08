@@ -78,7 +78,7 @@ author:
   name             : "Aarushi Kalra"
   avatar           : "Aarushi Kalra.jpg"
   bio              : "Economics PhD candidate at Brown | Bahujan Economists"
-  location         : "Providence, Rhode Island"
+  location         : #"Providence, Rhode Island"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=gqscEjIAAAAJ&hl=en&oi=ao"
   email            : #"aarushi_kalra@brown.edu"
