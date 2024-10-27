@@ -13,23 +13,20 @@ Center for Contemporary South Asia, Brown University
 **Quantitative Methods, 2018** 
 Institute of Economic Growth and office of the Chief Economic Adviser of India
 
-**Game Theory (Bridge Course, Graduate Level), 2017**
-Department of Economics, Delhi School of Economics
-
-**Econometrics (Bridge Course, Graduate Level), 2017**
-Department of Economics, Delhi School of Economics
-
-## Teaching Assistant
+## Teaching Assistant at Brown University
 
 **Machine Learning, Text Analysis and Economics, Spring 2024**
-with Prof. Amy Handlan, Brown University
+with Professor Amy Handlan
 
-**Game Theory, Fall 2020**
-with Prof. Roberto Serrano, Brown University
-
-**Graduate level Mathematics for Economists, Fall 2019**
-with Prof. Alex Poterrack, Brown University
+**Statistical Methods and Economic Analysis for MPA, Summer 2022**
+with Professors Jesse Bruhn, Bryce Steinberg, Neil Thakral, and Alex Poterack
 
 **Intermediate Microeconomics, Summer 2021**
-with Prof. Fahri Ulusoy, Brown University
+with Professor Fahri Ulusoy
+
+**Game Theory, Fall 2020**
+with Professor Roberto Serrano
+
+**Graduate level Mathematics for Economists, Fall 2019**
+with Professor Alex Poterrack
 
