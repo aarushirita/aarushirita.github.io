@@ -9,9 +9,9 @@ permalink: /papers/
 
 **Social Media Algorithms versus User Preferences in a Large-Scale RCT**
 
-*Grants: NSF Dissertation Research Improvement Grant and Weiss Fund for Research in Development Economics*  
+Grants: *NSF Dissertation Research Improvement Grant and Weiss Fund for Research in Development Economics*  
 
-*Awards: NEUDC Distinguished Paper Award 2024*  
+Awards: *NEUDC Distinguished Paper Award 2024*  
 
 
 <details>
@@ -26,18 +26,6 @@ To what extent is engagement with radicalizing social media content driven by al
 
 ## Working Papers
 
-**Causes and Consequences of Internet Shutdowns**, with [Ro'ee Levy](https://www.roeelevy.com/) and [Martin Mattsson](https://www.martin-mattsson.com/)
-
----
-
-**Hate Thy Neighbor: Effects of News Localization on Political Polarization**
-
----
-
-**Elections, Leader Identity, and Backlash**
-
----
-
 **A 'Ghetto' of One's Own: Communal Violence, Residential Segregation and Group Education Outcomes in India**
 
 *Winner, S4 (Spatial Structures in the Social Sciences) Graduate Student Paper Prize*  
@@ -45,8 +33,20 @@ To what extent is engagement with radicalizing social media content driven by al
 
 ---
 
-**A Dataset of Geolocated Villages and Gram Panchayat Election Candidates in Uttar Pradesh**  
-[Draft | Data | Code](https://osf.io/preprints/socarxiv/d6w2h/)
+**Causes and Consequences of Internet Shutdowns**, with [Ro'ee Levy](https://www.roeelevy.com/) and [Martin Mattsson](https://www.martin-mattsson.com/)
+
+---
+
+**Hate Thy Neighbor: Effects of News Localization on Political Polarization**
+
+*Draft coming soon!*
+
+
+---
+
+**Elections, Leader Identity, and Backlash**
+
+*Draft coming soon!*
 
 ---
 
@@ -71,3 +71,10 @@ _Economic and Political Weekly_, 2022
 **Birth Pangs: Universal Maternity Entitlements in India**, with Aditi Priya  
 _Economic and Political Weekly_, 2020  
 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3486671)
+
+## Data
+
+**A Dataset of Geolocated Villages and Gram Panchayat Election Candidates in Uttar Pradesh**  
+[Draft | Data | Code](https://osf.io/preprints/socarxiv/d6w2h/)
+
+---
