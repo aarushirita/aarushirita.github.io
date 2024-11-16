@@ -11,7 +11,7 @@ permalink: /papers/
 
 Grants: *NSF Dissertation Research Improvement Grant and Weiss Fund for Research in Development Economics*  
 
-Awards: *NEUDC Distinguished Paper Award 2024*  
+Awards: *Weiss/NEUDC Distinguished Paper Award 2024*  
 
 
 <details>
