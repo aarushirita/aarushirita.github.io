@@ -13,6 +13,6 @@ redirect_from:
 
 I am an applied microeconomist researching the digital economy in under-regulated environments. My fields are development and political economy.
 
-My research examines how social identity drives segregation and exclusion in both digital and physical environments, analyzing their impact on development processes by limiting political participation in unequal societies.
+Broadly, my research examines how social identity drives segregation and exclusion in both digital and physical environments, analyzing their impact on development processes by limiting political participation in unequal societies.
 
 Email: aarushi\_kalra@brown.edu
