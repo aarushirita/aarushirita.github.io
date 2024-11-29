@@ -26,18 +26,6 @@ Personalization algorithms have been linked to online echo chambers as they feed
 
 ## Working Papers
 
-**Internet Shutdowns**, with [Ro'ee Levy](https://www.roeelevy.com/) and [Martin Mattsson](https://www.martin-mattsson.com/)
-<details>
-  <summary> <strong>Abstract</strong> </summary>
-  <p>
-The internet, once hailed as a global space for free expression, is increasingly being restricted through government-imposed shutdowns. Despite the internet’s critical role in facilitating independent business operations, social connections, and diverse expressions of opinion, little is known about the nature and extent of these shutdowns. In this study, we focus on India, the world's largest democracy and the country with the most frequent internet shutdowns. Using a high-resolution, novel dataset, we systematically document the geographical distribution, timing, and justifications for these restrictions. Our analysis reveals that while internet shutdowns impact more than 38% of India’s population, they tend to be highly targeted. Notably, these shutdowns are disproportionately concentrated in poorer areas with larger Muslim populations. We also find that shutdown often follow instances of civil unrest, suggesting that the government uses shutdown to supress protest or prevent violence.
-  </p>
-</details>
-
-*Draft coming soon!*
-
----
-
 **A 'Ghetto' of One's Own: Communal Violence, Residential Segregation and Group Education Outcomes in India**
 
 *Winner, S4 (Spatial Structures in the Social Sciences) Graduate Student Paper Prize*
@@ -61,6 +49,19 @@ This paper examines the efficacy of non-invasive interventions in mitigating eng
 [Paper](https://github.com/aarushirita/aarushirita.github.io/blob/master/_pages/localNews_paper.pdf)
 
 ---
+
+**Internet Shutdowns**, with [Ro'ee Levy](https://www.roeelevy.com/) and [Martin Mattsson](https://www.martin-mattsson.com/)
+<details>
+  <summary> <strong>Abstract</strong> </summary>
+  <p>
+The internet, once hailed as a global space for free expression, is increasingly being restricted through government-imposed shutdowns. Despite the internet’s critical role in facilitating independent business operations, social connections, and diverse expressions of opinion, little is known about the nature and extent of these shutdowns. In this study, we focus on India, the world's largest democracy and the country with the most frequent internet shutdowns. Using a high-resolution, novel dataset, we systematically document the geographical distribution, timing, and justifications for these restrictions. Our analysis reveals that while internet shutdowns impact more than 38% of India’s population, they tend to be highly targeted. Notably, these shutdowns are disproportionately concentrated in poorer areas with larger Muslim populations. We also find that shutdown often follow instances of civil unrest, suggesting that the government uses shutdown to supress protest or prevent violence.
+  </p>
+</details>
+
+*Draft coming soon!*
+
+---
+
 
 **Elections, Leader Identity, and Backlash**
 <details>
