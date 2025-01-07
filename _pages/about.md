@@ -13,7 +13,7 @@ redirect_from:
 
 I am an applied microeconomist researching the digital economy in under-regulated environments. My fields are development and political economy.
 
-Broadly, my research examines how social identity drives segregation and exclusion in both digital and physical environments, analyzing their impact on development processes by limiting political participation in unequal societies.
+Broadly, my research examines how social identity drives segregation and exclusion in both digital and physical environments, and analyzing the impact on development processes.
 
 I will be a Postdoctoral Prize Research Fellow at Nuffield College, Oxford starting in September 2025.
 
