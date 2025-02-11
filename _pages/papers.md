@@ -20,35 +20,12 @@ Awards: *Weiss/NEUDC Distinguished Paper Award 2024*
 As social media usage reaches record highs, personalization algorithms risk radicalizing users by reinforcing existing beliefs. However, evidence on how algorithms and user behavior jointly shape harmful online engagement is limited. In this paper, I conduct an individually randomized experiment with 8 million users of a prominent TikTok-like platform in India, replacing the feed-ranking algorithm with random content delivery. I focus on hateful content targeting minority groups, given its prominence on Indian social media and establish a trade-off: random post recommendation lowers exposure to anti-minority ("toxic") content by 27%, but at a substantial cost to the platform as overall platform usage falls by 35%. Strikingly, treated users share a larger proportion of the toxic posts they view, mitigating the decline in the number of toxic posts shared from the platform. Users with a higher interest in toxic content at baseline drive this result as they seek out posts the algorithm does not show them. I rationalize these findings with a model of a revenue-driven algorithm that faces heterogeneous users choosing which posts to consume. Counterfactual simulations evaluate alternative interventions that target toxicity in the algorithm's recommendations. Finally, I collect survey evidence to trace users' behavior beyond the platform and show that the most affected users substitute away to other platforms. These results underscore the limits of piecemeal algorithmic regulation intended to moderate harmful content online. 
   </p>
 </details>
+
 [Paper](https://github.com/aarushirita/aarushirita.github.io/raw/master/_pages/algorithms-jmp-KALRA.pdf) | [Pre-registration](https://www.socialscienceregistry.org/trials/10933)
 
 ---
 
 ## Working Papers
-
-**A 'Ghetto' of One's Own: Communal Violence, Residential Segregation and Group Education Outcomes in India**
-
-*Winner, S4 (Spatial Structures in the Social Sciences) Graduate Student Paper Prize*
-<details>
-  <summary> <strong>Abstract</strong> </summary>
-  <p>
-Inter-group inequality has serious ramifications for economic growth. This paper investigates how ethnic violence and subsequent residential segregation shape children's lives across social groups, thus affecting economic growth. Using variation in communal violence due to a Hindu nationalist campaign tour across India, I show that violence displaces Muslims to segregated neighbourhoods. I exploit exogenous differences in the planned and actual route of the campaign trail to show that communal violence is associated with an increase in residential segregation of communities threatened by violence. Surprisingly, I find that post-event, Muslim primary education levels are higher in cities that were more susceptible to violence. For cohorts enrolling after the riots, the probability of attaining primary education decreases by 2.3% every 100 kilometres away from the campaign route. I interrogate the role of neighborhood effects in driving primary education outcomes across social groups in India.
-    </p>
-</details>
-[Paper](https://osf.io/preprints/socarxiv/265r3/) 
-
----
-
-**Hate Thy Neighbor: Effects of News Localization on Political Polarization from a Large-Scale Experiment**
-<details>
-  <summary> <strong>Abstract</strong> </summary>
-  <p>
-This paper examines the efficacy of non-invasive interventions in mitigating engagement with politically divisive content on social media platforms. Leveraging a large-scale experiment in collaboration with a major social media platform in India, I introduce "viewpoint-blind" content, nudging users with politically neutral, localized news stories, as an alternative to contentious content moderation practices and biased mainstream media sources. The experiment identifies the causal effect of these nudges on user engagement patterns, particularly focusing on interactions with harmful anti-minority content. Results indicate that increasing the visibility of neutral content significantly reduces engagement with divisive narratives, with a 3% decrease in interactions with polarizing content. This study offers policy-relevant insights for addressing online misinformation while balancing concerns over regulations infringing upon free speech and discouraging overall platform usage. These findings have important implications for platform governance and the design of algorithms that shape information consumption in digital spaces.
-  </p>
-</details>
-[Paper](https://github.com/aarushirita/aarushirita.github.io/blob/master/_pages/localNews_paper.pdf)
-
----
 
 **Internet Shutdowns**, with [Ro'ee Levy](https://www.roeelevy.com/) and [Martin Mattsson](https://www.martin-mattsson.com/)
 <details>
@@ -60,6 +37,32 @@ The internet, once hailed as a global space for free expression, is increasingly
 
 [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5129468)
 
+
+---
+
+**A 'Ghetto' of One's Own: Communal Violence, Residential Segregation and Group Education Outcomes in India**
+
+*Winner, S4 (Spatial Structures in the Social Sciences) Graduate Student Paper Prize*
+<details>
+  <summary> <strong>Abstract</strong> </summary>
+  <p>
+Inter-group inequality has serious ramifications for economic growth. This paper investigates how ethnic violence and subsequent residential segregation shape children's lives across social groups, thus affecting economic growth. Using variation in communal violence due to a Hindu nationalist campaign tour across India, I show that violence displaces Muslims to segregated neighbourhoods. I exploit exogenous differences in the planned and actual route of the campaign trail to show that communal violence is associated with an increase in residential segregation of communities threatened by violence. Surprisingly, I find that post-event, Muslim primary education levels are higher in cities that were more susceptible to violence. For cohorts enrolling after the riots, the probability of attaining primary education decreases by 2.3% every 100 kilometres away from the campaign route. I interrogate the role of neighborhood effects in driving primary education outcomes across social groups in India.
+    </p>
+</details>
+
+[Paper](https://osf.io/preprints/socarxiv/265r3/) 
+
+---
+
+**Hate Thy Neighbor: Effects of News Localization on Political Polarization from a Large-Scale Experiment**
+<details>
+  <summary> <strong>Abstract</strong> </summary>
+  <p>
+This paper examines the efficacy of non-invasive interventions in mitigating engagement with politically divisive content on social media platforms. Leveraging a large-scale experiment in collaboration with a major social media platform in India, I introduce "viewpoint-blind" content, nudging users with politically neutral, localized news stories, as an alternative to contentious content moderation practices and biased mainstream media sources. The experiment identifies the causal effect of these nudges on user engagement patterns, particularly focusing on interactions with harmful anti-minority content. Results indicate that increasing the visibility of neutral content significantly reduces engagement with divisive narratives, with a 3% decrease in interactions with polarizing content. This study offers policy-relevant insights for addressing online misinformation while balancing concerns over regulations infringing upon free speech and discouraging overall platform usage. These findings have important implications for platform governance and the design of algorithms that shape information consumption in digital spaces.
+  </p>
+</details>
+
+[Paper](https://github.com/aarushirita/aarushirita.github.io/blob/master/_pages/localNews_paper.pdf)
 
 ---
 
