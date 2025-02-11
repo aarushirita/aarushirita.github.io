@@ -58,7 +58,8 @@ The internet, once hailed as a global space for free expression, is increasingly
   </p>
 </details>
 
-*Draft coming soon!*
+[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5129468)
+
 
 ---
 
