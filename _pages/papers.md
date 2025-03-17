@@ -21,7 +21,7 @@ As social media usage reaches record highs, personalization algorithms risk radi
   </p>
 </details>
 
-[Preprint](https://arxiv.org/abs/2503.06244) | [PDF](https://github.com/aarushirita/aarushirita.github.io/raw/master/_pages/algorithms-jmp-KALRA.pdf)
+[Preprint](https://arxiv.org/abs/2503.06244)|[PDF](https://github.com/aarushirita/aarushirita.github.io/raw/master/_pages/algorithms-jmp-KALRA.pdf)
 
 ---
 
