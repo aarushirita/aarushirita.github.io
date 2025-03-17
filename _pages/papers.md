@@ -50,7 +50,7 @@ Inter-group inequality has serious ramifications for economic growth. This paper
     </p>
 </details>
 
-[Paper](https://osf.io/preprints/socarxiv/265r3/) 
+[Preprint](https://osf.io/preprints/socarxiv/265r3/) 
 
 ---
 
