@@ -5,13 +5,13 @@ classes: wide
 permalink: /papers/
 ---
 
-## Job Market Paper
+## Working Papers
 
-**Social Media Algorithms versus User Preferences in a Large-Scale RCT**
+**Hate in the Time of Algorithms: Evidence on Online Behavior from a Large-Scale Experiment**
 
-Grants: *NSF Dissertation Research Improvement Grant and Weiss Fund for Research in Development Economics*  
+Grants: *NSF Dissertation Research Improvement Grant, Weiss Fund for Research in Development Economics*  
 
-Awards: *Weiss/NEUDC Distinguished Paper Award 2024*  
+Awards: *Weiss/NEUDC Distinguished Paper Award 2024, Best Paper at CESifo Doctoral Workshop on Economics of Digitization 2025*  
 
 
 <details>
@@ -25,7 +25,6 @@ As social media usage reaches record highs, personalization algorithms risk radi
 
 ---
 
-## Working Papers
 
 **Internet Shutdowns**, with [Ro'ee Levy](https://www.roeelevy.com/) and [Martin Mattsson](https://www.martin-mattsson.com/)
 <details>
