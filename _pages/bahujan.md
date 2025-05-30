@@ -7,6 +7,6 @@ permalink: /bahujan/
 
 ## Bahujan Economists
 
-I am among the co-founders of [Bahujan Economists](https://bahujanecon.org/), a platform for researchers, aspirants, students, and professors from the historically marginalized caste, tribes, and religious communities in Economics.
+I am among the co-founders of [Bahujan Economists](https://bahujanecon.org/), a platform for social science researchers from historically marginalized castes, tribes, and religious communities in India.
 
 You can follow our work [here](https://x.com/BahujanEcon).
