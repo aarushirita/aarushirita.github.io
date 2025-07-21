@@ -11,7 +11,7 @@ permalink: /papers/
 
 Grants: *NSF Dissertation Research Improvement Grant, Weiss Fund for Research in Development Economics*  
 
-Awards: *Weiss/NEUDC Distinguished Paper Award 2024, Best Paper at CESifo Doctoral Workshop on Economics of Digitization 2025*  
+Awards: *Weiss/NEUDC Distinguished Paper Award 2024, Best Paper at CESifo Doctoral Workshop on Economics of Digitization 2025, BU Platform Strategy Symposium Alessandro di Fiore Best Paper Prize Runner-up*  
 
 
 <details>
