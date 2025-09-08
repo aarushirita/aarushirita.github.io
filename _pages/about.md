@@ -13,6 +13,6 @@ redirect_from:
 
 I am an applied microeconomist researching the digital economy and AI in under-regulated environments. Broadly, my research examines how social identity drives exclusion both online and offline, and analyzes its impact on economic development.
 
-I will be a Postdoctoral Prize Research Fellow at Nuffield College, Oxford starting in September 2025.
+I am currently a Postdoctoral Prize Research Fellow at Department of Economics and Nuffield College, Oxford University. I completed my PhD from Brown in 2025.
 
-Email: aarushi\_kalra@brown.edu
+Email: aarushi.kalra@economics.ox.ac.uk
