@@ -15,4 +15,4 @@ I am an applied microeconomist researching the digital economy and AI in under-r
 
 I am currently a Postdoctoral Prize Research Fellow at Department of Economics and Nuffield College, Oxford University. I completed my PhD from Brown in 2025.
 
-Email: aarushi.kalra@economics.ox.ac.uk
+Email: aarushiritakalra@gmail.com
