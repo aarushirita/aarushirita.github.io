@@ -5,7 +5,14 @@ classes: wide
 permalink: /teaching/
 ---
 
-## Instructor 
+## Instructor
+
+**Quantitative Methods for M.Sc. in Economic and Social History, 2025**
+Oxford University
+
+**Economics Honors Thesis Advising, 2025**
+Brown University
+
 **Economic and Human Development in South Asia, 2021**
 Center for Contemporary South Asia, Brown University
 [Syllabus](https://drive.google.com/file/d/1mYlB1JpgyGO3rEiptSTd6GPp8mUhVl4x/view?usp=sharing)
