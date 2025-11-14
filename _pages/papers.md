@@ -45,7 +45,7 @@ The internet, once hailed as a global space for free expression, is increasingly
 <details>
   <summary> <strong>Abstract</strong> </summary>
   <p>
-Inter-group inequality has serious ramifications for economic growth. This paper investigates how ethnic violence and subsequent residential segregation shape children's lives across social groups, thus affecting economic growth. Using variation in communal violence due to a Hindu nationalist campaign tour across India, I show that violence displaces Muslims to segregated neighbourhoods. I exploit exogenous differences in the planned and actual route of the campaign trail to show that communal violence is associated with an increase in residential segregation of communities threatened by violence. Surprisingly, I find that post-event, Muslim primary education levels are higher in cities that were more susceptible to violence. For cohorts enrolling after the riots, the probability of attaining primary education decreases by 2.3% every 100 kilometres away from the campaign route. I interrogate the role of neighborhood effects in driving primary education outcomes across social groups in India.
+Inter-group inequality has serious ramifications for economic growth. This paper investigates how ethnic violence and subsequent residential segregation shape children's lives across social groups. Using variation in communal violence due to a Hindu nationalist campaign tour across India, I show that violence displaces Muslims to segregated neighbourhoods. I exploit exogenous differences in the planned and actual route of the campaign trail to show that communal violence is associated with an increase in residential segregation of communities threatened by violence. Surprisingly, I find that post-event, Muslim primary education levels are higher in cities that were more susceptible to violence. For cohorts enrolling after the riots, the probability of attaining primary education decreases by 2.3% every 100 kilometres away from the campaign route. I interrogate the role of neighborhood effects in driving primary education outcomes across social groups in India.
     </p>
 </details>
 
@@ -53,7 +53,7 @@ Inter-group inequality has serious ramifications for economic growth. This paper
 
 ---
 
-**Hate Thy Neighbor: Effects of News Localization on Political Polarization from a Large-Scale Experiment**
+**Hate Thy Neighbor: Effects of Local News on Political Polarization from a Large-Scale Experiment**
 <details>
   <summary> <strong>Abstract</strong> </summary>
   <p>
@@ -66,7 +66,7 @@ This paper examines the efficacy of non-invasive interventions in mitigating eng
 ---
 
 
-**Elections, Leader Identity, and Backlash**
+**Local Elections, Leader Identity, and Online Hate Speech at Scale: Evidence from a TikTok-like Platform in Rural India**
 <details>
   <summary> <strong>Abstract</strong> </summary>
   <p>
