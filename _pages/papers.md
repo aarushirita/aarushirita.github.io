@@ -80,6 +80,12 @@ This paper examines the efficacy of non-invasive interventions in mitigating eng
 
 ## Works in Progress
 
+**AI and Crime**, with [Nikhil Kumar](https://sites.google.com/view/nikhil-kumar-/home)
+Grants: *Harvard Center for International Development GEM25: Catalyzing AI for Inclusive Change*
+
+---
+
+
 **Impact of Social Media Algorithms on Mental Health Outcomes**, with [Juan Pereira](https://sites.google.com/brown.edu/juanpereira/home)
 
 ---
