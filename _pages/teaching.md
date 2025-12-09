@@ -17,7 +17,7 @@ Brown University
 Center for Contemporary South Asia, Brown University
 [Syllabus](https://drive.google.com/file/d/1mYlB1JpgyGO3rEiptSTd6GPp8mUhVl4x/view?usp=sharing)
 
-**Quantitative Methods, 2018** 
+**Quantitative Methods for Officers of the Indian Economic Service, 2018** 
 Institute of Economic Growth and office of the Chief Economic Adviser of India
 
 ## Teaching Assistant at Brown University
