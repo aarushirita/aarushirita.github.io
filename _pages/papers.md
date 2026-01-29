@@ -74,7 +74,7 @@ This paper examines the efficacy of non-invasive interventions in mitigating eng
   </p>
 </details>
 
-*Draft coming soon!*
+*Please email me for the latest draft*
 
 ---
 
@@ -87,11 +87,11 @@ Grants: *Harvard Center for International Development GEM25: Catalyzing AI for I
 ---
 
 
-**Impact of Social Media Algorithms on Mental Health Outcomes**, with [Juan Pereira](https://sites.google.com/brown.edu/juanpereira/home)
+**Building Robust Social Movements: Theory and Evidence from the US and Brazil**, with [Salil Sharma](https://sites.google.com/view/salilsharma/salil-sharma), [Mark Voorneveld](https://www.hhs.se/en/persons/v/voorneveld-mark/) and [Leonard Wantchekon](https://politics.princeton.edu/people/leonard-wantchekon)
 
 ---
 
-**Understanding Reporting of Intimate Partner Violence: Evidence from Victim-Level Data**, with [Marcela Mello](https://sites.google.com/site/marcelamello/home/) and [Mahima Vasishth](https://www.mahimavasishth.com/home)
+**Reporting of Intimate Partner Violence: Evidence from Victim-Level Data**, with [Marcela Mello](https://sites.google.com/site/marcelamello/home/) and [Mahima Vasishth](https://www.mahimavasishth.com/home)
 
 ---
 
