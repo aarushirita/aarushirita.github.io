@@ -7,12 +7,11 @@ permalink: /papers/
 
 ## Working Papers
 
-**Hate in the Time of Algorithms: Evidence on Online Behavior from a Large-Scale Experiment**
+**Algorithmic Drivers of Online Behavior: Evidence from a Large-Scale Experiment**
 
 Grants: *NSF Dissertation Research Improvement Grant, Weiss Fund for Research in Development Economics*  
 
 Awards: *Weiss/NEUDC Distinguished Paper Award 2024, Best Paper at CESifo Doctoral Workshop on Economics of Digitization 2025, BU Platform Strategy Symposium Alessandro di Fiore Best Paper Prize Runner-up*  
-
 
 <details>
   <summary> <strong>Abstract</strong> </summary>
@@ -21,7 +20,9 @@ As social media usage reaches record highs, personalization algorithms risk radi
   </p>
 </details>
 
+(Previously circulated as *Hate in the Time of Algorithms: Evidence on Online Behavior from a Large-Scale Experiment*)
 [PDF](https://github.com/aarushirita/aarushirita.github.io/raw/master/_pages/algorithms-jmp-KALRA.pdf), [Preprint](https://arxiv.org/abs/2503.06244)
+
 
 ---
 
