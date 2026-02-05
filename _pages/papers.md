@@ -86,8 +86,11 @@ Grants: *Harvard Center for International Development GEM25: Catalyzing AI for I
 
 ---
 
+**Visual Bias in an Indian Election**, with [Elliott Ash]([https://sites.google.com/view/salilsharma/salil-sharma](https://elliottash.com/) and [Lorenz Kipp](https://lorenzkipp.github.io/)
 
-**Building Robust Social Movements: Theory and Evidence from the US and Brazil**, with [Salil Sharma](https://sites.google.com/view/salilsharma/salil-sharma), [Mark Voorneveld](https://www.hhs.se/en/persons/v/voorneveld-mark/) and [Leonard Wantchekon](https://politics.princeton.edu/people/leonard-wantchekon)
+---
+
+**Building Robust Social Movements: Theory and Evidence from the US and Brazil**, with [Salil Sharma](https://sites.google.com/view/salilsharma/salil-sharma) and [Leonard Wantchekon](https://politics.princeton.edu/people/leonard-wantchekon)
 
 ---
 
