@@ -86,7 +86,7 @@ Grants: *Harvard Center for International Development GEM25: Catalyzing AI for I
 
 ---
 
-**Visual Bias in an Indian Election**, with [Elliott Ash]([https://sites.google.com/view/salilsharma/salil-sharma](https://elliottash.com/) and [Lorenz Kipp](https://lorenzkipp.github.io/)
+**Visual Bias in an Indian Election**, with [Elliott Ash](https://elliottash.com/) and [Lorenz Kipp](https://lorenzkipp.github.io/)
 
 ---
 
