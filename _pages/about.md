@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-I am an applied microeconomist researching the digital economy and AI in under-regulated environments. Broadly, my research examines how social identity drives exclusion both online and offline, and analyzes its impact on economic development.
+I am an applied microeconomist focussing on digital economies and AI in under-regulated environments. My research examines how social identity drives exclusion both online and offline.
 
 I am currently a Postdoctoral Prize Research Fellow at Department of Economics and Nuffield College, Oxford University. I completed my PhD from Brown in 2025.
 
