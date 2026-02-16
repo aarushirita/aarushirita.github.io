@@ -95,10 +95,6 @@ Grants: *Harvard Center for International Development GEM25: Catalyzing AI for I
 
 ---
 
-**Reporting of Intimate Partner Violence: Evidence from Victim-Level Data**, with [Marcela Mello](https://sites.google.com/site/marcelamello/home/) and [Mahima Vasishth](https://www.mahimavasishth.com/home)
-
----
-
 ## Peer-Reviewed Publications
 
 **Impacts of Regional Lockdown Policies on COVID-19 Transmission in India in 2020**, with [Paul Novosad](https://paulnovosad.com/)  
