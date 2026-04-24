@@ -28,14 +28,14 @@ As social media usage reaches record highs, personalization algorithms risk radi
 
 
 **Targeted Disruptions: Internet Shutdowns in India**, with [Ro'ee Levy](https://www.roeelevy.com/) and [Martin Mattsson](https://www.martin-mattsson.com/)
+
+*Under Review*
 <details>
   <summary> <strong>Abstract</strong> </summary>
   <p>
 The internet, once hailed as a global space for free expression, is increasingly being restricted through government-imposed shutdowns. Despite the internet’s critical role in facilitating business operations, providing access to social protection, and coordinating protest, little is known about when, where, and why these shutdowns occur. We leverage a novel, high-resolution dataset to systematically document the extent and targeting of shutdown in India, the country with the most frequent internet shutdowns. We present five main findings. First, internet shutdowns are common and impacted more than 44% of India’s population in 2018-2022. Second, while shutdowns occur often, they are highly targeted. An average shutdown in our sample period and states lasts only 2 days and affects 4 districts. Third, we find that shutdowns exacerbate inequalities as they are disproportionately concentrated in poorer areas and in areas with larger Muslim populations. Fourth, shutdowns are more likely to occur immediately following both peaceful protests and violent riots. Fifth, on days when there were large scale protests against the national government, shutdowns are substantially more widespread in states that are politically aligned with the national government.  
   </p>
 </details>
-
-*Under Review*
 
 
 ---
