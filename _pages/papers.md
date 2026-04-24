@@ -31,11 +31,11 @@ As social media usage reaches record highs, personalization algorithms risk radi
 <details>
   <summary> <strong>Abstract</strong> </summary>
   <p>
-The internet, once hailed as a global space for free expression, is increasingly being restricted through government-imposed shutdowns. Despite the internet’s critical role in facilitating independent business operations, social connections, and diverse expressions of opinion, little is known about the nature and extent of these shutdowns. In this study, we focus on India, the world's largest democracy and the country with the most frequent internet shutdowns. Using a high-resolution, novel dataset, we systematically document the geographical distribution, timing, and justifications for these restrictions. Our analysis reveals that while internet shutdowns impact more than 38% of India’s population, they tend to be highly targeted. Notably, these shutdowns are disproportionately concentrated in poorer areas with larger Muslim populations. We also find that shutdown often follow instances of civil unrest, suggesting that the government uses shutdown to supress protest or prevent violence.
+The internet, once hailed as a global space for free expression, is increasingly being restricted through government-imposed shutdowns. Despite the internet’s critical role in facilitating business operations, providing access to social protection, and coordinating protest, little is known about when, where, and why these shutdowns occur. We leverage a novel, high-resolution dataset to systematically document the extent and targeting of shutdown in India, the country with the most frequent internet shutdowns. We present five main findings. First, internet shutdowns are common and impacted more than 44% of India’s population in 2018-2022. Second, while shutdowns occur often, they are highly targeted. An average shutdown in our sample period and states lasts only 2 days and affects 4 districts. Third, we find that shutdowns exacerbate inequalities as they are disproportionately concentrated in poorer areas and in areas with larger Muslim populations. Fourth, shutdowns are more likely to occur immediately following both peaceful protests and violent riots. Fifth, on days when there were large scale protests against the national government, shutdowns are substantially more widespread in states that are politically aligned with the national government.  
   </p>
 </details>
 
-[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5129468)
+*Under Review*
 
 
 ---
@@ -46,23 +46,11 @@ The internet, once hailed as a global space for free expression, is increasingly
 <details>
   <summary> <strong>Abstract</strong> </summary>
   <p>
-Inter-group inequality has serious ramifications for economic growth. This paper investigates how ethnic violence and subsequent residential segregation shape children's lives across social groups. Using variation in communal violence due to a Hindu nationalist campaign tour across India, I show that violence displaces Muslims to segregated neighbourhoods. I exploit exogenous differences in the planned and actual route of the campaign trail to show that communal violence is associated with an increase in residential segregation of communities threatened by violence. Surprisingly, I find that post-event, Muslim primary education levels are higher in cities that were more susceptible to violence. For cohorts enrolling after the riots, the probability of attaining primary education decreases by 2.3% every 100 kilometres away from the campaign route. I interrogate the role of neighborhood effects in driving primary education outcomes across social groups in India.
+This paper investigates how ethnic violence and subsequent residential segregation shape children's lives across social groups. Using variation in communal violence due to a Hindu nationalist campaign tour across India, I show that violence displaces Muslims to segregated neighbourhoods. I exploit exogenous differences in the planned and actual route of the campaign trail to show that communal violence is associated with an increase in residential segregation of communities threatened by violence. Surprisingly, I find that post-event, Muslim primary education levels are higher in cities that were more susceptible to violence. For cohorts enrolling after the riots, the probability of attaining primary education decreases by 2.3% every 100 kilometres away from the campaign route. I interrogate the role of neighborhood effects in driving primary education outcomes across social groups in India.
     </p>
 </details>
 
 [Preprint](https://osf.io/preprints/socarxiv/265r3/) 
-
----
-
-**Hate Thy Neighbor: Effects of Local News on Political Polarization from a Large-Scale Experiment**
-<details>
-  <summary> <strong>Abstract</strong> </summary>
-  <p>
-This paper examines the efficacy of non-invasive interventions in mitigating engagement with politically divisive content on social media platforms. Leveraging a large-scale experiment in collaboration with a major social media platform in India, I introduce "viewpoint-blind" content, nudging users with politically neutral, localized news stories, as an alternative to contentious content moderation practices and biased mainstream media sources. The experiment identifies the causal effect of these nudges on user engagement patterns, particularly focusing on interactions with harmful anti-minority content. Results indicate that increasing the visibility of neutral content significantly reduces engagement with divisive narratives, with a 3% decrease in interactions with polarizing content. This study offers policy-relevant insights for addressing online misinformation while balancing concerns over regulations infringing upon free speech and discouraging overall platform usage. These findings have important implications for platform governance and the design of algorithms that shape information consumption in digital spaces.
-  </p>
-</details>
-
-[Paper](https://github.com/aarushirita/aarushirita.github.io/blob/master/_pages/localNews_paper.pdf)
 
 ---
 
@@ -88,6 +76,10 @@ Grants: *Harvard Center for International Development GEM25: Catalyzing AI for I
 ---
 
 **Visual Bias in an Indian Election**, with [Elliott Ash](https://elliottash.com/) and [Lorenz Kipp](https://lorenzkipp.github.io/)
+
+---
+
+**Local News**, with [Ananya Sen](https://sites.google.com/view/ananyasen/home) and Stella Chen
 
 ---
 
