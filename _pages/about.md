@@ -13,7 +13,7 @@ redirect_from:
 
 I am an applied microeconomist focussing on digital economies and AI in under-regulated environments. My research examines how social identity drives exclusion both online and offline.
 
-I am currently a Postdoctoral Prize Research Fellow at Department of Economics and Nuffield College, Oxford University. I completed my PhD from Brown in 2025.
+Starting in September 2026, I will be Associate Professor of Economics at the University of Oxford, jointly appointed with Worcester College. I am currently a Postdoctoral Prize Research Fellow at the Department of Economics and Nuffield College, Oxford. I completed my PhD from Brown in 2025.
 
 ---
 *Updates*
