@@ -11,6 +11,6 @@ redirect_from:
 
 ### CV Preview
 
-<iframe src="/_pages/Job_Market_CV___Kalra.pdf" width="100%" height="600px"></iframe>
+<iframe src="/_pages/CV___Kalra.pdf" width="100%" height="600px"></iframe>
 
-Here is a link you can use to download my [CV](./_pages/Job_Market_CV___Kalra.pdf)
+[CV](./_pages/CV___Kalra.pdf)
