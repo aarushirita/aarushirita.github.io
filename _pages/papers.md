@@ -29,7 +29,7 @@ As social media usage reaches record highs, personalization algorithms risk radi
 
 **Targeted Disruptions: Internet Shutdowns in India**, with [Ro'ee Levy](https://www.roeelevy.com/) and [Martin Mattsson](https://www.martin-mattsson.com/)
 
-*Revise and Resubmit at **Nature Human Behavior** *
+*Revise and Resubmit, **Nature Human Behavior***
 <details>
   <summary> <strong>Abstract</strong> </summary>
   <p>
