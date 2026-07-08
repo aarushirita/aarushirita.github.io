@@ -29,7 +29,7 @@ As social media usage reaches record highs, personalization algorithms risk radi
 
 **Targeted Disruptions: Internet Shutdowns in India**, with [Ro'ee Levy](https://www.roeelevy.com/) and [Martin Mattsson](https://www.martin-mattsson.com/)
 
-*Under Review*
+*Revise and Resubmit at **Nature Human Behavior** *
 <details>
   <summary> <strong>Abstract</strong> </summary>
   <p>
@@ -76,6 +76,8 @@ Grants: *Harvard Center for International Development GEM25: Catalyzing AI for I
 ---
 
 **Visual Bias in an Indian Election**, with [Elliott Ash](https://elliottash.com/) and [Lorenz Kipp](https://lorenzkipp.github.io/)
+
+Grants: *Weiss Fund for Research in Development Economics*
 
 ---
 
