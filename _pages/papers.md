@@ -78,7 +78,7 @@ FinTech lending has the potential to expand credit access by replacing relations
 
 ## Works in Progress
 
-**AI and Crime**, with [Nikhil Kumar](https://sites.google.com/view/nikhil-kumar-/home)
+**AI and Crime**, with [Nishith Prakash](https://www.nishithprakash.com/) and [Nikhil Kumar](https://sites.google.com/view/nikhil-kumar-/home)
 
 Grants: *Harvard Center for International Development GEM25: Catalyzing AI for Inclusive Change*
 
