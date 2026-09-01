@@ -10,10 +10,7 @@ redirect_from:
 
 
 
-
-I am an applied microeconomist focussing on digital economies and AI in under-regulated environments. My research examines how social identity drives exclusion both online and offline.
-
-Starting in September 2026, I will be Associate Professor of Economics at the University of Oxford, jointly appointed with Worcester College. I am currently a Postdoctoral Prize Research Fellow at the Department of Economics and Nuffield College, Oxford. I completed my PhD from Brown in 2025.
+I am an Associate Professor of Economics at the University of Oxford, jointly appointed with Worcester College. I study digital economies and AI in under-regulated environments. My research examines how social identity drives exclusion both online and offline. I completed my PhD in Economics from Brown University in 2025.
 
 ---
 *Updates*
