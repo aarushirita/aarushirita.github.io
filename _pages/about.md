@@ -15,4 +15,6 @@ I am an Associate Professor of Economics at the University of Oxford, jointly ap
 ---
 *Updates*
 
+[Machine Learning and Economics Reading Group](https://maxkasy.github.io/home/ML_Econ_Oxford/) at Oxford begins on October 21! The theme this term is LLMs in Social Science Research: everyone is welcome (online or offline :))
+
 [AI and the political economy of information filtering](https://maxkasy.github.io/home/information_filtering_workshop/) workshop recordings now available!
